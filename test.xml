@@ -1,0 +1,12 @@
+<data>
+    <topic name="Animal Things">
+        <note name="Dogs are better than cats 03">
+            <text>
+            Dogs respond when you call their name (unlike cats, who just ignore you)
+            </text>
+            <timestamp>
+            03/16/21 - 14:03:04
+            </timestamp>
+        </note>
+    </topic>
+<topic name="Cars"><note name="Toyota is best"><text>They are as reliable as cars can get</text><timestamp>03/09/24 - 18:56:43</timestamp></note></topic><topic name="Toyota"><note name="Cars"><text>test</text><timestamp>03/09/24 - 18:57:23</timestamp></note><note name="Avensis"><text>The best model out there</text><timestamp>03/09/24 - 19:29:20</timestamp></note><note name="Corolla"><text>Maybe the best</text><timestamp>03/09/24 - 20:05:40</timestamp></note><note name="Wikipedia"><text>Toyota Motor Corporation  is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. It was founded by Kiichiro Toyoda and incorporated on August 28, 1937. Toyota is the largest automobile manufacturer in the world, producing about 10 million vehicles per year.</text><timestamp>03/09/24 - 20:42:52</timestamp></note></topic><topic name="Bikes"><note name="Yamaha"><text>The best Japanese brand</text><timestamp>03/10/24 - 17:04:35</timestamp></note></topic><topic name="Bicycles"><note name="Cube"><text>A german bike brand</text><timestamp>03/10/24 - 17:32:13</timestamp></note><note name="Wikipedia"><text>The dog is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from extinct gray wolves, and the gray wolf is the dog's closest living relative. The dog was the first species to be domesticated by humans. Hunter-gatherers did this over 15,000 years ago in Oberkassel, Bonn, which was before the development of agriculture. Due to their long association with humans, dogs have expanded to a large number of domestic individuals and gained the ability to thrive on a starch-rich diet that would be inadequate for other canids.</text><timestamp>03/10/24 - 17:37:29</timestamp></note></topic><topic name="Test"><note name="testing"><text>More info about testing</text><timestamp>03/10/24 - 19:06:59</timestamp></note></topic></data>
